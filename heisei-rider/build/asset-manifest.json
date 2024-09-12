@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cafccdc8.css",
+    "main.js": "/static/js/main.dc544b4b.js",
+    "static/js/453.e921090f.chunk.js": "/static/js/453.e921090f.chunk.js",
+    "static/media/kr-double.png": "/static/media/kr-double.b8b7b2dcac6af5e4e362.png",
+    "static/media/kr-exaid.png": "/static/media/kr-exaid.bc855fe47999d4f0aafe.png",
+    "static/media/kr-zio.png": "/static/media/kr-zio.5598b6db022bf4cbddb9.png",
+    "static/media/kr-build.png": "/static/media/kr-build.58a73a7380bf50184b95.png",
+    "static/media/kr-fourze.png": "/static/media/kr-fourze.7c68f85a59d0264f5a38.png",
+    "static/media/kr-wizard.png": "/static/media/kr-wizard.47365b82a115ab7625b2.png",
+    "static/media/kr-drive.png": "/static/media/kr-drive.a4392d4266578cf8fc40.png",
+    "static/media/kr-gaim.png": "/static/media/kr-gaim.ca73a302a081c9fa096a.png",
+    "static/media/kr-ghost.png": "/static/media/kr-ghost.dec094322187fede7195.png",
+    "static/media/kr-ooo.png": "/static/media/kr-ooo.321b86f6733f01117473.png",
+    "static/media/OldGangstriad-V48xy.otf": "/static/media/OldGangstriad-V48xy.acfbe97df6e3b37136fd.otf",
+    "index.html": "/index.html",
+    "main.cafccdc8.css.map": "/static/css/main.cafccdc8.css.map",
+    "main.dc544b4b.js.map": "/static/js/main.dc544b4b.js.map",
+    "453.e921090f.chunk.js.map": "/static/js/453.e921090f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafccdc8.css",
+    "static/js/main.dc544b4b.js"
+  ]
+}
