@@ -35,9 +35,9 @@ const KRDex = () => {
           <div className="flex flex-col justify-center items-center gap-2 p-2">
             <div className="flex items-center gap-5 font-inter w-full">
               <div className="mobileSM:text-[20px] text-[64px] font-bold">KRiDEX</div>
-              <div className="mobileSM:hidden text-[36px] font-light">(Kamen Rider DEX)</div>
+              <div className="mobileSM:hidden tablet:block tablet:text-[16px] text-[36px] font-light">(Kamen Rider DEX)</div>
               <SearchBox
-              className="mobileSM:w-full mobileSM:text-[12px] mobileSM:p-2 rounded-lg w-1/3 border-10 border-slate-300"
+              className="mobileSM:w-full mobileSM:text-[12px] mobileSM:p-2 tablet:w-1/2 rounded-lg w-1/3 border-10 border-slate-300"
               placeholder="Rider Search... Standing by."
               onChangeHandler={onSearchChange}
             />
