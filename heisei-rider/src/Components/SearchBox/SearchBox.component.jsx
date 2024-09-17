@@ -1,6 +1,6 @@
 const SearchBox = ({ className, placeholder, onChangeHandler }) => {
     return (
-      <input
+      <input 
         className={`search-box ${className}`}
         type="search"
         placeholder={placeholder}
