@@ -20,29 +20,11 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 100vh;
+  margin-bottom: 50px
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.titleOuter{
-  text-shadow:
-   -10 px -10 px 0 #000,  
-    10 px -10 px 0 #000,
-    -10 px 10 px 0 #000,
-     10 px 10 px 0 #000;
-}
-
-.titleInner{
-  text-shadow:
-   -3px -3px 0 #fff,  
-    3px -3px 0 #fff,
-    -3px 3px 0 #fff,
-     3px 3px 0 #fff;
-}
-
-.titleText {
-
 }

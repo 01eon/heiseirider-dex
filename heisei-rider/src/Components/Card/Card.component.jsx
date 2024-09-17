@@ -12,8 +12,8 @@ const Card = ({ kr }) => {
                 alt={ `KR${rider}`}
                 className="w-auto flex justify-center "
               />
-              <div className="p-2 flex flex-col gap-0 justify-center items-center mb-2">
-                <div className="font-bold text-center mt-2">
+              <div className=" flex flex-col gap-0 justify-center items-center">
+                <div className="font-bold text-center ">
                   <p>{rider}</p>
                   <span className="italic font-normal">({year})</span>
                 </div>
